@@ -1,11 +1,6 @@
 # Exercice 20 - Formulaires HTML
 
 
-
-## Directives
-
-- Récupérez et clonez le dépôt git depuis l'adresse Github classroom que je vais vous donner via Teams.
-
 ## Formulaire
 
 - Les informations du formulaire doivent être envoyé à l'adresse "https://mathieufrechette.ca/validation.php" avec la méthode **POST**
